@@ -1,0 +1,15 @@
+C:\Users\ProAction24\Desktop\homework2\proga2.1\bin\Debug\net6.0\proga2.1.exe
+C:\Users\ProAction24\Desktop\homework2\proga2.1\bin\Debug\net6.0\proga2.1.deps.json
+C:\Users\ProAction24\Desktop\homework2\proga2.1\bin\Debug\net6.0\proga2.1.runtimeconfig.json
+C:\Users\ProAction24\Desktop\homework2\proga2.1\bin\Debug\net6.0\proga2.1.dll
+C:\Users\ProAction24\Desktop\homework2\proga2.1\bin\Debug\net6.0\proga2.1.pdb
+C:\Users\ProAction24\Desktop\homework2\proga2.1\obj\Debug\net6.0\proga2.1.csproj.AssemblyReference.cache
+C:\Users\ProAction24\Desktop\homework2\proga2.1\obj\Debug\net6.0\proga2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProAction24\Desktop\homework2\proga2.1\obj\Debug\net6.0\proga2.1.AssemblyInfoInputs.cache
+C:\Users\ProAction24\Desktop\homework2\proga2.1\obj\Debug\net6.0\proga2.1.AssemblyInfo.cs
+C:\Users\ProAction24\Desktop\homework2\proga2.1\obj\Debug\net6.0\proga2.1.csproj.CoreCompileInputs.cache
+C:\Users\ProAction24\Desktop\homework2\proga2.1\obj\Debug\net6.0\proga2.1.dll
+C:\Users\ProAction24\Desktop\homework2\proga2.1\obj\Debug\net6.0\refint\proga2.1.dll
+C:\Users\ProAction24\Desktop\homework2\proga2.1\obj\Debug\net6.0\proga2.1.pdb
+C:\Users\ProAction24\Desktop\homework2\proga2.1\obj\Debug\net6.0\proga2.1.genruntimeconfig.cache
+C:\Users\ProAction24\Desktop\homework2\proga2.1\obj\Debug\net6.0\ref\proga2.1.dll
